@@ -10,13 +10,12 @@
 
 👀 Tengo interés:
 - Python
-- Design thinking 
+- Design thinking
 - UI/UX
 
 ### 📫 How to reach me:
 - Website: [albertocardenas.co](https://albertocardenas.co/) 👷‍♂️🔬
+- Gist: [gist.github.com/alcardm](https://gist.github.com/alcardm) 📝
 - Codepen: [codepen.io/alcardm](https://codepen.io/alcardm) 📋✂️💾
-- GitLab: [gitlab.com/alcardm](https://gitlab.com/alcardm) 📝
-- Gists: [gist.github.com/alcardm](https://gist.github.com/alcardm) 📝
 
 🖖
