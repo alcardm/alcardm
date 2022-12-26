@@ -4,18 +4,14 @@
 
 JavaScript, CSS/HTML, UI/UX, PHP, MySQL, Linux.
 
-👨‍🎓 Tengo conocimiento en:
+👨‍🎓 Tengo experiencia con:
 
-- HTML / CSS / Javascript
-- PHP / MySQL
 - WordPress
 - Azure
-- Linux
-- Docker-CI/CD
+- NodeJS / ReactJS
+- Docker / CI/CD
 
 Busco fortalecer mis habilidades como desarrollador frontend en JavaScript, ReactJS y _UX design_.
-
----
 
 ## 📫 Contacto:
 
